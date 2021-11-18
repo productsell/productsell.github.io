@@ -790,4 +790,7 @@ section{
 	.wrapper-about .form{
 		text-align:center
 	}
+	.three h1{
+		font-size: 20px;
+	}
 }
