@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Josefin+Sans:wght@200&display=swap');
 html{
 	scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 body{
 	color:#383838;
